@@ -7,7 +7,7 @@
 
 ## Hi! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-My name is Maira Hanel, 19, Full stack web development student!
+My name is Maira Hanel, 20, Full stack web development student!
 
 - :computer: Currently learning about Front-end - HTML, CSS and JavaScrip
 - :books: Studant at [**Growdev**](https://www.growdev.com.br/)
