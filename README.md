@@ -5,7 +5,7 @@
 [<img src ="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mairajoana_/)
 
 
-## Hi! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Hi! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="10px">
 
 My name is Maira Hanel, 20, Full stack web development student!
 
