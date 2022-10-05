@@ -9,7 +9,7 @@
 
 My name is Maira Hanel, 20, Full stack web development student!
 
-- :computer: Currently learning about Front-end - HTML, CSS, JavaScript and TypeScript
+- :computer: Currently learning about Back-end - TypeScript, NodeJS
 - :books: Studant at [**Growdev**](https://www.growdev.com.br/)
 - :yellow_heart: Love books and music
 
