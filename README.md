@@ -7,10 +7,9 @@
 
 ## Hi!
 
-My name is Maira Hanel, 20, Full stack web development student!
+My name is Maira Hanel, 21, Full stack web developer!
 
 - :computer: Software Developer at Reserva
 - :books: Currently learning about Back-end - TypeScript, NodeJS, PostgreSQL
-- :yellow_heart: Love books and music
 
 ---
