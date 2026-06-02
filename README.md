@@ -7,7 +7,7 @@
 
 ## Hi!
 
-My name is Maira Hanel, 23, Backend developer!
+My name is Maira Hanel, 24, Backend developer!
 
 - :computer: Software Developer at Azzas 2154
 - :books: Currently studying computer science at Unisinos
